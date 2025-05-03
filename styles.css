@@ -1,0 +1,12 @@
+.effect {
+    background-image: url("image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 500px;
+    color: white
+}
+
+#no {
+    position: absolute;
+    margin-left: 50px;
+}
